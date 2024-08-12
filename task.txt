@@ -1,0 +1,6 @@
+Реализуйте класс Товар,-> String name, double cost + getter/setter
+содержащий данные о товаре,
+и ТорговыйАвтомат, содержащий -> ArrayList<Product> + initProducts + getProduct
+в себе методы initProducts (List <Product>)
+сохраняющий в себе список исходных продуктов
+и getProduct(String name)
